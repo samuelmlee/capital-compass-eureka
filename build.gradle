@@ -13,7 +13,7 @@ java {
 
 jar {
     manifest {
-        attributes 'Main-Class': 'org/capitalcompass/capitalcompasseureka/CapitalCompassEurekaApplication'
+        attributes 'Main-Class': 'org/capitalcompass/eureka/EurekaApplication'
     }
 }
 
